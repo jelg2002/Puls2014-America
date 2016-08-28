@@ -4,7 +4,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 	index-php
 	images
 	leon.jpg
-www.leoncoin.jpg
+www.fuck.cl
 
 SISTEMA DE CONTROL DE VERSIONES
 
