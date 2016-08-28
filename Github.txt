@@ -1,0 +1,24 @@
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+	index-php
+	images
+	leon.jpg
+www.leoncoin.jpg
+
+SISTEMA DE CONTROL DE VERSIONES
+
+SVN: Subversion / mercurial / TFS / CVS / GIT
+Github
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
+
+====
+
+Repositorio de código GITHUB (master)
+
+1. Multiples versiones del mismo código
+2. Cambios Delta
+   Base de datos atómica del código
+3. Historial de cada archivo
